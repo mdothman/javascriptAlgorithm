@@ -1,4 +1,3 @@
-const { test, expect } = require("@jest/globals")
 const arithmetic = require("../arithmetic")
 
 describe("Arithmetic",()=>{
